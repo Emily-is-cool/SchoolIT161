@@ -1,0 +1,6 @@
+[07-May-2022 18:03:29 America/Chicago] PHP Warning:  include(includes/simple.php): failed to open stream: No such file or directory in /home3/newmanix/public_html/site9/SchoolIT161/contact.php on line 32
+[07-May-2022 18:03:29 America/Chicago] PHP Warning:  include(includes/simple.php): failed to open stream: No such file or directory in /home3/newmanix/public_html/site9/SchoolIT161/contact.php on line 32
+[07-May-2022 18:03:29 America/Chicago] PHP Warning:  include(): Failed opening 'includes/simple.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home3/newmanix/public_html/site9/SchoolIT161/contact.php on line 32
+[07-May-2022 19:54:31 America/Chicago] PHP Warning:  include(includes/simple.php): failed to open stream: No such file or directory in /home3/newmanix/public_html/site9/SchoolIT161/contact.php on line 32
+[07-May-2022 19:54:31 America/Chicago] PHP Warning:  include(includes/simple.php): failed to open stream: No such file or directory in /home3/newmanix/public_html/site9/SchoolIT161/contact.php on line 32
+[07-May-2022 19:54:31 America/Chicago] PHP Warning:  include(): Failed opening 'includes/simple.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home3/newmanix/public_html/site9/SchoolIT161/contact.php on line 32
