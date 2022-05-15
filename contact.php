@@ -8,6 +8,7 @@
   <meta charset="utf-8" />
   <link rel="stylesheet" href="css/portal.css" />
   <link rel="stylesheet" href="css/nav.css" />
+  <link rel="stylesheet" href="css/forms.css/>
  </head>
  <body>
      <header>
@@ -29,8 +30,24 @@
    <div class="wrapper">
      
        <h2 class="subheader">Contact Emily</h2>
-       <?php include 'includes/simple.php';
-       ?>
+       <?php
+        /*
+         * Below are 2 different forms to be re-used       
+         * 
+         * Only use one at a time, comment out the other!       
+         *
+         */
+
+        include 'includes/contact_include.php'; #site keys & code here
+    
+        $toAddress = "ebrune@gmail.com";  //place your/your client's email address here
+        $toName = "Emily"; //place your client's name here
+        $website = "IT 161 web-students contact form";  //place NAME of your client's website
+
+        echo loadContact('simple.php');#demonstrates a simple contact form
+        //echo loadContact('multiple.php');#demonstrates multiple form elements
+
+	?>
        
        
      <footer>
