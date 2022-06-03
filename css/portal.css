@@ -126,6 +126,9 @@ footer {
         width: 99%;
         padding-left: 1%;
     }
+    h3.center {
+        text-align: center;
+    }
     
     img.phone {
         width: 90%;
