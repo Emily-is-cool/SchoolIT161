@@ -48,15 +48,15 @@ a:hover {
     text-decoration: none;
 }
 
-/*
+
 iframe {
     display: block;
     margin: auto;
     width: 90%;
-    height: 5700px;
-    border: 2px solid darkcyan;
+    height: 4000px;
+    border: 2px solid rgb(37, 20, 65);
 }
-*/
+
 
 footer {
     clear: both;
